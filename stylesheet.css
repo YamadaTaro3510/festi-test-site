@@ -78,7 +78,7 @@ main {
 }
 
 .top {
-    background-image: url("images/party.png");
+    background-image: url("https://github.com/YamadaTaro3510/festi-test-site/blob/main/party.jpg?raw=true");
     position: relative;
     z-index: 1;
     background-size: cover;
